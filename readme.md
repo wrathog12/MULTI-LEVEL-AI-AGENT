@@ -60,7 +60,7 @@ pip install -r requirements.txt
 Create a `.env` file in the project root with the following content:
 
 ```
-Gemini_API_KEY=your_google_gemini_api_key_here
+Gemini_API_TOKEN=your_google_gemini_api_key_here
 ```
 
 Replace `your_google_gemini_api_key_here` with your actual API key obtained from Google Cloud Console or the Gemini API provider.
